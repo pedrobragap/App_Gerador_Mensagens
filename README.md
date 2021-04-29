@@ -10,9 +10,26 @@
 - #https://www.mensagemaniversario.com.br/
 
 ## 🍀 Contributors 
-<a href = "https://github.com/pedrobragap/App_Gerador_Mensagens/contributors">
-  <img src = "https://contrib.rocks/image?repo=App_Gerador_Mensagens/pedrobragap"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars3.githubusercontent.com/u/43506288" width="100px;" alt="Foto do Pedro Braga"/><br>
+        <sub>
+          <b>Pedro Braga</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars0.githubusercontent.com/u/26925002" width="100px;" alt="Foto do Geovani Amaral"/><br>
+        <sub>
+          <b>Geovani Amaral</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🍀Contributing
 
