@@ -6,10 +6,10 @@
   Aplicativo mobile gerador de mensagens para aniversario automático.
 </h4>
 
-## 💻 
+## 💻 Info
 - #https://www.mensagemaniversario.com.br/
 
-## Contributors 
+## 🍀 Contributors 
 <a href = "https://github.com/pedrobragap/App_Gerador_Mensagens/contributors">
   <img src = "https://contrib.rocks/image?repo=App_Gerador_Mensagens/pedrobragap"/>
 </a>
